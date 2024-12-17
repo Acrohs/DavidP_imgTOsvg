@@ -1,9 +1,9 @@
-# ImgTOsvg
+# ImgTOsvg Versión CLI
 Genera imágenes de pintura por números (vectorizadas con SVG) a partir de cualquier imagen de entrada.
 
 ## Demostración
 
-Pruébalo [aquí](https://drake7707.github.io/paintbynumbersgenerator/index.html)
+Pruébalo [aquí](https://acrohs.github.io/DavidP_imgTOsvg/)
 
 ### Versión CLI
 
