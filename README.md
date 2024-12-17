@@ -3,7 +3,7 @@ Genera imágenes de pintura por números (vectorizadas con SVG) a partir de cual
 
 ## Demostración
 
-Pruébalo [aquí](https://acrohs.github.io/DavidP_imgTOsvg/)
+Pruébalo [aquí](https://acrohs.github.io/DavidP_imgTOsvg/ )
 
 ### Versión CLI
 
